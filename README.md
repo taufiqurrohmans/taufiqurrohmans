@@ -7,8 +7,8 @@
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 </a>
 
-[![GitHub Followers](https://img.shields.io/github/followers/uziyraf?label=Follow&style=social)](https://github.com/uziyraf)
-[![GitHub Stars](https://img.shields.io/github/stars/uziyraf?style=social)](https://github.com/uziyraf)
+[![GitHub Followers](https://img.shields.io/github/followers/uziyraf?label=Follow&style=social)](https://github.com/taufiqurrohmans)
+[![GitHub Stars](https://img.shields.io/github/stars/uziyraf?style=social)](https://github.com/taufiqurrohmans)
 </div>
 
 
